@@ -1,0 +1,26 @@
+src
+ ┣ assets
+ ┣ components
+ ┣ constants
+ ┣ contexts
+ ┣ enums
+ ┣ hooks
+ ┣ layouts
+ ┣ pages
+ ┣ redux
+ ┣ routes
+ ┣ services
+ ┣ styles
+ ┣ types
+ ┣ utilities
+ ┣ .eslintrc.json
+ ┣ .prettierignore
+ ┣ App.css
+ ┣ App.tsx
+ ┣ index.css
+ ┣ index.tsx
+ ┣ package-lock.json
+ ┣ package.json
+ ┣ README.md
+ ┣ tailwind.config.js
+ ┗ tsconfig.json
